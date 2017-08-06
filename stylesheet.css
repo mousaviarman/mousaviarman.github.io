@@ -8,10 +8,11 @@ html {
 }
 
 .profile-box {
-  width: 550px;
-  height: 450px;
+  width: 540px;
+  height: 400px;
   background: rgba(0, 0, 0, 0.4);
   padding: 30px;
+  padding-top: 50px;
   color: white;
   margin: 0 auto;
   margin-top: 80px;
